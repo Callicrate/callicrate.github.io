@@ -4,6 +4,5 @@ header:
 layout: splash
 classes: 
   - landing 
-  - dark-theme
 ---
 Far and away the best prize that life offers is the chance to work hard at work worth doing --Theodore Roosevelt
